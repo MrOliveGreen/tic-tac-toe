@@ -1,0 +1,13 @@
+.btn-restart {
+  transform: translate(-50%, calc(max(-240px, calc(-200vw / 3)) - 50%));
+}
+
+.board {
+  width: 360px;
+  max-width: 100vw;
+}
+
+.cell {
+  height: 120px;
+  max-height: calc(100vw / 3);
+}
